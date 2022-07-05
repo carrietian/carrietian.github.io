@@ -1,5 +1,3 @@
-#Carrie Tian
-
 Hi there. I live in Brooklyn and work in product at Wave. 
 
 Reach out anytime: hi@carrietian.com
