@@ -1,7 +1,8 @@
+---
 layout: page
 title: Newsletter
 permalink: /letters/
-
+---
 I write a letter to friends old and new every 3 months. Bet you’ll like it too.
 
 
