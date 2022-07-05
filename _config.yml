@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
 title: Carrie Tian
+author: Carrie Tian
+email: hi@carrietian.com
+
+# social links
+twitter_username: carrietian
+
+show_excerpts: true # set to false to remove excerpts on the homepage
