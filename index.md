@@ -8,7 +8,7 @@ To make staying in touch easier, I send friends old and new a letter once a seas
 They’re nice! You can [get it here.](http://eepurl.com/giFVMv)
 
 ## Posts
-{% for post in carrietian.github.io.posts %}
+{% for post in site.posts %}
  
 <ul>
  
