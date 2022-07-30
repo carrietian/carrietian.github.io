@@ -79,6 +79,4 @@ If you liked an issue, definitely occasionally hit reply and let me know! Every 
 
 Hope this helped! Happy to chat more on newsletters whenever: *hi@ carrietian.com.*
 
-Hope this helped! Happy to chat more on newsletters whenever: hi@ carrietian.com. 
-
 And if reading this made you want to see what all the fuss is about, you can [sign up here]((https://www.carrietian.com/letters/)) for my newsletter
