@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Running my newsletter"
 date: 2022-01-04
 permalink: /running-my-newsletter/
