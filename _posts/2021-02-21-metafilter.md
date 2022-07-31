@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20+ years in, you think you know a site (in this case, Metafilter)
+title: Metafilter: 20+ years in, you think you know a site
 date: 2021-02-21
 permalink: /metafilter/
 ---
