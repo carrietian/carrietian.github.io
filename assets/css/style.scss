@@ -1,4 +1,6 @@
 ---
 ---
 
+<h1 class="project-name">{{ site.title | default: Carrie Tian }}</h1>
+
 @import "{{ site.theme }}";
