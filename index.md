@@ -13,7 +13,7 @@ They’re nice! You can [get it here.](http://eepurl.com/giFVMv)
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> // page.date 
+      <a href="{{ post.url }}">{{ post.title }}</a> // {{post.date | date: "%B %Y"}}
     </li>
   {% endfor %}
 </ul>
