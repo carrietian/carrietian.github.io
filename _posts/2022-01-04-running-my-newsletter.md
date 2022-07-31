@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Running my newsletter"
+title: "I wrote this so you'd start a newsletter"
 date: 2022-01-04
 permalink: /running-my-newsletter/
 ---
 
-I got a couple of questions about my newsletter recently, so I thought I’d write up how I’m thinking about it these days.
+Starting my newsletter is easily one of the best decisions I've made in the past few years. I'm hoping that if I document the ways it's been rewarding and tactically how I create each issue, you'll be more likely to start one too :) 
+
 *[You can subscribe here](https://www.carrietian.com/letters/) to the newsletter in question.*
 
 #### why’d I start a newsletter?
@@ -79,4 +80,4 @@ If you liked an issue, definitely occasionally hit reply and let me know! Every 
 
 Hope this helped! Happy to chat more on newsletters whenever: *hi@ carrietian.com.*
 
-And if reading this made you want to see what all the fuss is about, you can [sign up here]((https://www.carrietian.com/letters/)) for my newsletter
+And if reading this made you want to see what all the fuss is about, you can [sign up here]((https://www.carrietian.com/letters/)) for my newsletter.
