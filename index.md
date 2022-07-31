@@ -8,14 +8,8 @@ To make staying in touch easier, I send friends old and new a letter once a seas
 They’re nice! You can [get it here.](http://eepurl.com/giFVMv)
 
 ## Posts
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
