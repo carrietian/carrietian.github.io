@@ -27,7 +27,7 @@ In February, I went to one committee meeting and one stated meeting. I'll share 
 
 -   Apparently council members are just famous enough that I got unexpectedly starstruck seeing them!  
 
-#### Committee meetings
+### Committee meetings
 
 If you pick one type of City Council meeting to attend, I'd recommend going to a specific committee's meeting. 
 
@@ -35,7 +35,7 @@ I attended a joint meeting of the Committees on Aging and Criminal Justice. The 
 
 I stayed for the first 2 hours of the meeting. First, there was a panel of leaders from 4 relevant city agencies, and the council members asked them questions. Then, there was a panel of formerly incarcerated people who gave their testimony, which was quite moving.  
 
-#### Reflections 
+### Reflections 
 
 **Data:** Council members asked city agency directors very specific questions about how city services were being used. The directors couldn't answer most of them, causing the council members to rebuke them for being unprepared. I am somewhat sympathetic to not being prepared for every possible slicing and dicing of metrics (eg "how many people used these 2 specific programs"), but I came away wishing the directors had shown they had working models of their own programs. 
 
@@ -59,14 +59,14 @@ I stayed for the first 2 hours of the meeting. First, there was a panel of leade
 
 -   I saw how easy it is for people to fall through the cracks. The agency leaders kept deferring to the other agencies ("Oh, our agency doesn't focus specifically on people with disabilities, you should ask X other agency instead"), but the whole point of having a joint committee meeting is that people will inevitably span multiple categories (gender, health status, etc).
 
-#### Stated meetings
+### Stated meetings
 
 I have considerably less to say about stated meetings.\
 A Stated meeting is interesting to see once, perhaps, if you like pomp and circumstance. Attending one reminded me that so much of politics is ceremonial (renaming streets for local heroes; declaring local holidays, etc). I found it hard to follow this meeting despite diligently paging through the meeting agenda. Its main purposes seemed to be announcing what'll be discussed in various committee meetings and voting on bills (without discussion of said bills, which would've been the interesting part.)
 
 Some social notes: This felt like observing a company offsite or reunion - council members are sort of like coworkers, and they only gather twice a month. It was interesting to see which council members socialized before the meeting officially started, and there was some gossip, like my council member announcing her engagement by slyly declaring a new conflict of interest!
 
-#### How to attend a city council meeting
+### How to attend a city council meeting
 
 Here's the calendar of all of the meetings: [https://legistar.council.nyc.gov/Calendar.aspx ](https://council.nyc.gov/committees/)
 
