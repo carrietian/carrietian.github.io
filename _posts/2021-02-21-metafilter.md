@@ -87,3 +87,9 @@ So much of the internet feels legible. It’s well-documented how Instagram or A
 ***
 
 *Thanks to Jackie, Jacob, Elizabeth, and Kevin for loving advice on very confused early drafts.*
+
+***
+
+*Update - October 2023:* There's now discussion on Metafilter about this piece, which you can [read here](https://www.metafilter.com/201115/You-Think-You-Know-a-Site)! Thank you for giving this a read ❤ \
+If you liked this, you might also like [my adventures as a tour guide at the Benjamin Franklin House in London](https://www.carrietian.com/ben-franklin/); or [competing on Jeopardy and subsequently training my memory to be worse](https://www.carrietian.com/memory/); or [a review of my favorite book](https://www.carrietian.com/seeing-is-perceiving/) last year that got me to believe in contemporary art.\
+I also send a thoughtful newsletter every ~3 months; you can [get it here](https://www.carrietian.com/letters/).
