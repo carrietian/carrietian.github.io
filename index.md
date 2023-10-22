@@ -1,4 +1,4 @@
-Hi there. I live in Brooklyn and work in product at Wave. 
+Hi there. I live in Brooklyn and work in product at [Wave](https://www.wave.com/en/about/). 
 
 Reach out anytime: hi@carrietian.com
 
