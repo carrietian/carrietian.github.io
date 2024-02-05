@@ -17,6 +17,8 @@ When the new year rolled around, I decided a goal for the year was to like our f
 
 Every week, Rainbow Plant Life (the service) sends out a PDF with 3 recipes for the week, a grocery list, and instructions for what to prep in advance. I go through the kitchen figuring out what we already have before Saturday’s grocery shop (we spend about $40 for 12 meals). On Sundays, we do our prep homework: pre-chopping the veg, making the sauces that are used across dishes, etc. It’s a pleasant way to spend Sunday evenings and feels great doing a favor for future us. Sunday is meant to take 1-1.5 hours of prep. We’ve so far been taking 2+ hours but think we’ll get faster with practice. 
 
+![Some of the meals we've made](https://i.imgur.com/EwhVCY2.jpeg)
+
 These meal plans feel really well-suited for our lifestyle: 
 - Having 3 recipes for dinner (and enough leftovers for 3 lunches) is the right amount given that we often have evening plans. 
 - Every meal has been at least pretty good, with many being delicious. They’re definitely all much tastier than what we would’ve cobbled together. I like the balance they strike among the tradeoffs of taste, variety, time investment, healthiness, and ingredient costs. 
