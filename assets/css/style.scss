@@ -11,7 +11,12 @@ a.heading {
 }
 
 .page-header {
-    background-image: linear-gradient(120deg,#88efd2,#1e9dad);
+    // background-image: linear-gradient(120deg,#88efd2,#1e9dad);
     // background-image: url('#{$baseurl}/assets/header.png');
-    background-size: cover;
+    // background-size: cover;
+    background: hsla(147, 34%, 52%, 1);
+    background: linear-gradient(135deg, hsla(147, 34%, 52%, 1) 0%, hsla(41, 43%, 87%, 1) 100%);
+    background: -moz-linear-gradient(135deg, hsla(147, 34%, 52%, 1) 0%, hsla(41, 43%, 87%, 1) 100%);
+    background: -webkit-linear-gradient(135deg, hsla(147, 34%, 52%, 1) 0%, hsla(41, 43%, 87%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5bae80", endColorstr="#ece3cf", GradientType=1 );
 }
