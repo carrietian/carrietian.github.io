@@ -11,5 +11,6 @@ a.heading {
 }
 
 .page-header {
-    background-image: url('#{$baseurl}/assets/header.png');;
+    background-image: url('#{$baseurl}/assets/header.png');
+    background-size: cover;
 }
